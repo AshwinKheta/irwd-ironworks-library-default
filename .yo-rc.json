@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "irwd-ironworks-library-default",
+    "libraryId": "8612d3e0-8a41-4871-8f54-b787ddaf0353",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "irwd-ironworks-library-default",
+    "solutionShortDescription": "irwd-ironworks-library-default description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "library"
+  }
+}

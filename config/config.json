@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "default-library-library": {
+      "components": [
+        {
+          "entrypoint": "./lib/index.js",
+          "manifest": "./src/libraries/defaultLibrary/DefaultLibraryLibrary.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "DefaultLibraryLibraryStrings": "lib/libraries/defaultLibrary/loc/{locale}.js"
+  }
+}
